@@ -3,7 +3,7 @@
 # Hack the Box Ethical Hacking - Lame 
 ---
 
-<img src="file:///home/dt/Downloads/Lame.png">
+<img src="Lame.png">
 
 **the targeted machine is Lame**
 
