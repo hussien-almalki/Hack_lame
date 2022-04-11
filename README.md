@@ -1,6 +1,5 @@
-# Hack_lame
-
 # Hack the Box Ethical Hacking - Lame 
+
 ---
 
 <img src="Lame.png">
